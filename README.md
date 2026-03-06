@@ -19,4 +19,3 @@ The variability observed in high intensity activity also presents an opportunity
 The decline in active user participation observed in the dataset highlights the importance of retention focused marketing strategies. Bellabeat could implement engagement campaigns, progress tracking features, and personalized insights to keep users motivated and connected to their wellness goals.
 Overall, Bellabeat’s marketing efforts should focus on promoting its devices as holistic wellness companions that support daily movement, habit formation, and long term lifestyle improvement rather than positioning them solely as high performance fitness trackers.
 
-<img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/ce7703a0-5e7a-4e3e-b96b-819a0f985197" />
